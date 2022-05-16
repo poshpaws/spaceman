@@ -3,6 +3,7 @@ sudo apt-get update -y &&
 sudo apt-get install -y \
 apt-transport-https \
 ca-certificates \
+tmux \
 curl \
 gnupg-agent \
 software-properties-common &&
