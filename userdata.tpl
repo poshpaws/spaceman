@@ -4,6 +4,10 @@ sudo apt-get install -y \
 apt-transport-https \
 ca-certificates \
 tmux \
+augeas-tools \
+jq \
+atop \
+lsscsi \
 curl \
 gnupg-agent \
 software-properties-common &&
